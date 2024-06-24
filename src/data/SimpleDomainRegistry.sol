@@ -1,6 +1,3 @@
-// This content is used as a code example in /src/pages/index.js
-// Kept here for easy formatting.
-
  // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.1;
 
@@ -22,7 +19,7 @@ contract SimpleDomainRegistry {
         owner = msg.sender;
     }
 
-    // Registers a domain name (if not already registerd)
+    // Registers a domain name (if not already registered)
     function register(string memory domainName) public payable {
         require(msg.value >= DOMAIN_NAME_COST, "Insufficient amount.");
         require(domainNames[domainName] == address(0), "Domain name already registered.");

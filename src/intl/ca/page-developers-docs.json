@@ -17,6 +17,7 @@
   "docs-nav-erc-721": "ERC-721",
   "docs-nav-erc-777": "ERC-777",
   "docs-nav-erc-1155": "ERC-1155",
+  "docs-nav-erc-4626": "ERC-4626",
   "docs-nav-ethereum-client-apis": "APIs de client Ethereum",
   "docs-nav-ethereum-stack": "Pila Ethereum",
   "docs-nav-evm": "Màquina virtual d'Ethereum (MVE)",
@@ -60,5 +61,9 @@
   "page-calltocontribute-link": "plantilla de documentació",
   "page-calltocontribute-link-2": "Servidor Discord",
   "page-calltocontribute-span": "Edita la pàgina",
-  "page-calltocontribute-title": "Ajuda'ns amb aquesta pàgina"
+  "page-calltocontribute-title": "Ajuda'ns amb aquesta pàgina",
+  "back-to-top": "Tornar a dalt",
+  "banner-page-incomplete": "Aquesta pàgina és incompleta i ens encantaria que ajudéssiu. Editeu aquesta pàgina i afegiu qualsevol cosa que cregueu útil per als altres.",
+  "next": "Següent",
+  "previous": "Anterior"
 }

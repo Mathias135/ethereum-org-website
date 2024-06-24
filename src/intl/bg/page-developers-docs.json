@@ -17,6 +17,7 @@
   "docs-nav-erc-721": "ERC-721",
   "docs-nav-erc-777": "ERC-777",
   "docs-nav-erc-1155": "ERC-1155",
+  "docs-nav-erc-4626": "ERC-4626",
   "docs-nav-ethereum-client-apis": "API на клиента на Етереум",
   "docs-nav-ethereum-stack": "Обем на Етереум",
   "docs-nav-evm": "Виртуална машина на Етереум (EVM)",
@@ -60,5 +61,9 @@
   "page-calltocontribute-link": "шаблон на документацията",
   "page-calltocontribute-link-2": "Discord сървър",
   "page-calltocontribute-span": "Редактирай страницата",
-  "page-calltocontribute-title": "Помогнете ни да обновим тази страница"
+  "page-calltocontribute-title": "Помогнете ни да обновим тази страница",
+  "back-to-top": "Към началото",
+  "banner-page-incomplete": "Тази страница не е довършена и ние бихме приели с радост помощта ви. Редактирайте тази страница и добавете това, което мислите, че ще е полезно за другите.",
+  "next": "Напред",
+  "previous": "Назад"
 }
